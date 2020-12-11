@@ -23,7 +23,7 @@ before_deploy: |
 deploy:
   edge: true
   provider: npm
-  email: kuitos.lau@gmail.com
+  email: ab140140@163.com
   api_key: $NPM_AUTH_TOKEN
   skip_cleanup: true
   on:

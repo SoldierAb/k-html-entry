@@ -1,6 +1,6 @@
 {
   "name": "k-html-entry",
-  "version": "1.11.0",
+  "version": "1.0.0",
   "description": "import html and get the exports of entry",
   "main": "./lib/index.js",
   "module": "./esm/index.js",
